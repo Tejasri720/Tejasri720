@@ -4,7 +4,7 @@
 
 ### 💻 Aspiring Software Developer | Python Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Python+Developer;Frontend+Developer;Java+%7C+SQL+%7C+React.js;Building+Projects%2C+Learning+Every+Day!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Python+Developer;Frontend+Developer;Python+%7C+SQL+%7C+React.js;Building+Projects%2C+Learning+Every+Day!" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Tejasri720">
