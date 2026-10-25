@@ -113,11 +113,13 @@ A responsive frontend project built using HTML, CSS, and JavaScript.
 
 ---
 
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasri720&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasri720&theme=tokyo-night" alt="GitHub Contribution Activity Graph" width="100%" />
 
 </div>
 
