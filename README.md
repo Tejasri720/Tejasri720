@@ -7,11 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Python+Developer;Frontend+Developer;Java+%7C+SQL+%7C+React.js;Building+Projects%2C+Learning+Every+Day!" alt="Typing SVG" />
 
 <p>
-  <a href="https://portfolio-one-sable-kirou7q4r7j.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://github.com/Tejasri720">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Tejasri720-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
@@ -19,13 +16,13 @@
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
 * 🎓 B.Tech graduate in Electronics and Communication Engineering.
-* 💻 Interested in software development and Python Full Stack Development.
-* 🐍 Practicing Python, SQL, and problem-solving.
+* 💻 Aspiring Software Developer interested in Python Full Stack Development.
+* 🐍 Practicing Python,  SQL, and problem-solving.
 * 🌐 Building projects using frontend and backend technologies.
-* 🚀 Focused on improving my coding skills and developing practical applications.
+* 🚀 Passionate about learning new technologies and developing practical applications.
 * 🎯 Looking for opportunities to grow as a software developer.
 
 ---
@@ -35,25 +32,23 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js," alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,django,mysql" alt="Backend and Databases"/>
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=python,flask,django,mysql" alt="Backend and Databases"/> </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
 </p>
 
 ---
@@ -64,58 +59,80 @@
 
 A MySQL-based project demonstrating SQL queries, joins, aggregate functions, subqueries, views, transactions, stored procedures, and triggers.
 
-🔗 [View Repository](https://github.com/Tejasri720)
+🔗 [View Project](https://github.com/Tejasri720/Banking-Management-System)
 
 ### 📚 Library Management System
 
 A Python-based console application using object-oriented programming to manage books and library operations.
 
-🔗 [View Repository](https://github.com/Tejasri720)
+🔗 [View Project](https://github.com/Tejasri720/Library-Management-System)
 
 ### 🔐 OTP Generator and Email Verification
 
 A Python application that generates one-time passwords and sends them through email for user verification.
 
-🔗 [View Repository](https://github.com/Tejasri720)
+🔗 [View Project](https://github.com/Tejasri720/OTP-Generator-and-Email-Verification)
 
-### 🌐 Personal Portfolio
+### 🎙️ Virtual Voice Assistant
 
-A website showcasing my skills, projects, and professional profile.
+A Python-based voice assistant that uses speech recognition and text-to-speech to perform supported tasks.
 
-🔗 [Visit Portfolio](https://portfolio-one-sable-kirou7q4r7j.vercel.app/)
+🔗 [View Project](https://github.com/Tejasri720/Virtual-Voice-Assistant)
 
-🔗 [View GitHub Repositories](https://github.com/Tejasri720?tab=repositories)
+### 🌐 Personal Portfolio Website
+
+A personal website showcasing my skills, projects, and professional profile.
+
+🔗 [View Project](https://github.com/Tejasri720?tab=repositories)
+
+### 🛵 Rapido Clone
+
+A responsive frontend project built using HTML, CSS, and JavaScript.
+
+🔗 [View Project](https://github.com/Tejasri720/Rapido-clone)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejasri720&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+<!-- GitHub Profile Statistics -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasri720&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejasri720&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejasri720 GitHub Statistics"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasri720&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<!-- Most Used Programming Languages -->
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasri720&layout=compact&theme=tokyonight&hide_border=true" alt="Tejasri720 Top Languages"/>
+
+<!-- Contribution Streak -->
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Tejasri720&theme=tokyonight&hide_border=true" alt="Tejasri720 GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasri720&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Tejasri720">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tejasri-kadavakollu-931386421/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://portfolio-one-sable-kirou7q4r7j.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -126,5 +143,6 @@ A website showcasing my skills, projects, and professional profile.
 
 ### 💜 Learn. Build. Improve. Repeat. 🚀
 
-</div>
+*Thank you for visiting my GitHub profile!*
 
+</div>
