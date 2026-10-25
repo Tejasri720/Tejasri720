@@ -23,7 +23,7 @@
 
 * 🎓 B.Tech graduate in Electronics and Communication Engineering.
 * 💻 Interested in software development and Python Full Stack Development.
-* 🐍 Practicing Python, Java, SQL, and problem-solving.
+* 🐍 Practicing Python, SQL, and problem-solving.
 * 🌐 Building projects using frontend and backend technologies.
 * 🚀 Focused on improving my coding skills and developing practical applications.
 * 🎯 Looking for opportunities to grow as a software developer.
@@ -35,7 +35,7 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js," alt="Programming Languages"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -47,7 +47,7 @@
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Databases"/>
+<img src="https://skillicons.dev/icons?i=python,flask,django,mysql" alt="Backend and Databases"/>
 </p>
 
 ### 🔧 Tools & Platforms
